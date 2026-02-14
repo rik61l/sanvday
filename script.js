@@ -1,12 +1,13 @@
 const gifStages = [
-    "https://media.tenor.com/EBV7OT7ACfwAAAAj/u-u-qua-qua-u-quaa.gif",    // 0 normal
-    "https://media1.tenor.com/m/uDugCXK4vI4AAAAd/chiikawa-hachiware.gif",  // 1 confused
-    "https://media.tenor.com/f_rkpJbH1s8AAAAj/somsom1012.gif",             // 2 pleading
-    "https://media.tenor.com/OGY9zdREsVAAAAAj/somsom1012.gif",             // 3 sad
-    "https://media1.tenor.com/m/WGfra-Y_Ke0AAAAd/chiikawa-sad.gif",       // 4 sadder
-    "https://media.tenor.com/CivArbX7NzQAAAAj/somsom1012.gif",             // 5 devastated
-    "https://media.tenor.com/5_tv1HquZlcAAAAj/chiikawa.gif",               // 6 very devastated
-    "https://media1.tenor.com/m/uDugCXK4vI4AAAAC/chiikawa-hachiware.gif"  // 7 crying runaway
+    "https://media1.tenor.com/m/J1435QzjFRUAAAAd/san-ateez-back-ice-on-my-teeth-ateez-san.gif",    // 0 san back start
+    "https://media1.tenor.com/m/N4goxOdMrRcAAAAd/san-kiss-ateez-kiss.gif",  // 1 kissing
+    "https://media1.tenor.com/m/gqA8x3JoVXAAAAAd/san-i-don%27t-care-leave-me-alone-san-nom-nom.gif", // 2 nom nom 
+    "https://media1.tenor.com/m/5tq8HBtZGLcAAAAd/ateez-san.gif",             // 3 heart arms
+    "https://media1.tenor.com/m/Q0TfZ87jG20AAAAd/smghwa-san.gif",           // 4 bow in bed
+    "https://media1.tenor.com/m/RldBXjZzlZwAAAAd/ateez-ateez-san.gif",             // 5 are you serious
+    "https://media1.tenor.com/m/A7dhJ57qK2YAAAAd/san-ateez-san-smirk.gif",               // 6 Smirk
+    "https://media1.tenor.com/m/CJv2FLOs_T0AAAAd/san-ateez-san-reaction.gif",  // 7 coming to terms with it
+    "https://media1.tenor.com/m/jScP_TqVmyUAAAAd/san-choi-san.gif" // nipples
 ]
 
 const noMessages = [
@@ -18,7 +19,9 @@ const noMessages = [
     "Please??? 💔",
     "Don't do this to me...",
     "Last chance! 😭",
-    "You can't catch me anyway 😜"
+    "Ok I see",
+    "You can't catch me anyway 😜, get nippled"
+    
 ]
 
 const yesTeasePokes = [
